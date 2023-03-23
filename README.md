@@ -1,5 +1,5 @@
 # Expressify
-Two Way American Sign Language Translator
+Two Way American Sign Language Translator for dumb and deaf people.
 
 # TEST 1
 Firstly, all the output were displayed on the console
