@@ -2,7 +2,8 @@
 Two Way American Sign Language Translator for dumb and deaf people.
 
 # Video Demo
-https://www.linkedin.com/posts/sanket-patil-a083a61b3_learning-software-python-activity-7044731714492850176-4LvC?utm_source=share&utm_medium=member_desktop
+https://github.com/SanketPatil2001/Expressify/assets/89041285/c381c849-3f08-4982-ae92-736e55628193
+
 
 # TEST 1
 Firstly, all the output were displayed on the console
