@@ -23,4 +23,4 @@ UI for video module was created
 
 
 
-For full project mail me at: patilsanket0201@gmail.com
+For project guidance mail me at: patilsanket0201@gmail.com
